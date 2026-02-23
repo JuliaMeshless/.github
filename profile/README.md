@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/149065557" width="150" alt="JuliaMeshless logo"/>
+  <img src="https://avatars.githubusercontent.com/u/97969581?v=4" width="150" alt="JuliaMeshless logo"/>
 </p>
 
 <h1 align="center">JuliaMeshless</h1>
