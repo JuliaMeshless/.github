@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/97969581?v=4" width="150" alt="JuliaMeshless logo"/>
+<p>
+  <a href="https://github.com/JuliaMeshless"><img width="150" align="left" src="https://avatars.githubusercontent.com/u/97969581?v=4" alt="JuliaMeshless logo"></a>
 </p>
 
-<h1 align="center">JuliaMeshless</h1>
+# JuliaMeshless
 
-<p align="center">
-  <em>A project for the development of Meshless Methods for PDEs in the Julia programming language.</em>
-</p>
+*A project for the development of Meshless Methods for PDEs in the Julia programming language.*
 
 ---
 
