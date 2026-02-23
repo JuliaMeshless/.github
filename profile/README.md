@@ -17,22 +17,6 @@ JuliaMeshless provides a Julia ecosystem for meshless numerical methods — solv
 [mm-ci]: https://github.com/JuliaMeshless/MeshlessMultiphysics.jl/actions/workflows/CI.yml/badge.svg
 [mm-ci-url]: https://github.com/JuliaMeshless/MeshlessMultiphysics.jl/actions/workflows/CI.yml
 
-## Getting Started
-
-RadialBasisFunctions.jl is registered in the General registry:
-
-```julia
-using Pkg
-Pkg.add("RadialBasisFunctions")
-```
-
-The other packages can be added via URL:
-
-```julia
-Pkg.add(url="https://github.com/JuliaMeshless/WhatsThePoint.jl")
-Pkg.add(url="https://github.com/JuliaMeshless/MeshlessMultiphysics.jl")
-```
-
 ## Contributing
 
 Contributions are welcome! Please open issues and pull requests on the individual package repositories.
