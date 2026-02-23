@@ -1,3 +1,5 @@
+## Overview
+
 JuliaMeshless provides a Julia ecosystem for meshless numerical methods — solving partial differential equations without traditional mesh generation. The organization develops tools for radial basis function collocation, point cloud generation, and multiphysics simulation, enabling researchers and engineers to work directly with scattered node distributions.
 
 ## Packages
