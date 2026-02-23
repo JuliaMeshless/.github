@@ -1,15 +1,3 @@
-<p>
-  <a href="https://github.com/JuliaMeshless"><img width="150" align="left" src="https://avatars.githubusercontent.com/u/97969581?v=4" alt="JuliaMeshless logo"></a>
-</p>
-
-# JuliaMeshless
-
-*A project for the development of Meshless Methods for PDEs in the Julia programming language.*
-
----
-
-## Overview
-
 JuliaMeshless provides a Julia ecosystem for meshless numerical methods — solving partial differential equations without traditional mesh generation. The organization develops tools for radial basis function collocation, point cloud generation, and multiphysics simulation, enabling researchers and engineers to work directly with scattered node distributions.
 
 ## Packages
